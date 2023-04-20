@@ -226,13 +226,13 @@ export const templates = [
   },
   {
     name:'Coming Soon',
-    description: 'Thise template is under constructions',
+    description: 'This template is under construction',
     imgUrl: ComingSoon,
     url:'/'
   },
   {
     name:'Coming Soon',
-    description: 'Thise template is under constructions',
+    description: 'This template is under construction',
     imgUrl: ComingSoon,
     url:'/'
   },
